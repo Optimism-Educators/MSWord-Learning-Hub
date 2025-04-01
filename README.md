@@ -1,6 +1,3 @@
-# MSWord-Learning-Hub
-
-# MS-Word-learning
 # 📖 MSWord-Learning-Hub  
 ![GitHub stars](https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social)
