@@ -1,9 +1,27 @@
 # 📖 MSWord-Learning-Hub  
+<!--
+<p align="center">
 ![GitHub stars](https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social)
 ![Contributors](https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub)
+![Pull Requests](https://img.shields.io/github/issues-pr/iamAntimPal/MSWord-Learning-Hub)
 ![Issues](https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub)
 ![License](https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+</p>
+-->
+<div align="center">
+  <img src="https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub" alt="Contributors">
+  <img src="https://img.shields.io/github/issues-pr/iamAntimPal/MSWord-Learning-Hub" alt="Pull Requests">
+  <img src="https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub" alt="Issues">
+  <img src="https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub" alt="License">
+  <a href="https://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+</div>
+
 
 ## 📌 About This Repository  
 Welcome to **MSWord-Learning-Hub**, the ultimate open-source resource for learning **Microsoft Word** from **beginner to advanced levels**. 🚀  
