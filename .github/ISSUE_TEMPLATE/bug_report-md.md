@@ -1,6 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: bug_report.md
+about: Report bugs and issues in the repository—whether it’s in lessons, formatting
+  errors, broken links, or code errors—to enable quick fixes.
 title: ''
 labels: ''
 assignees: ''

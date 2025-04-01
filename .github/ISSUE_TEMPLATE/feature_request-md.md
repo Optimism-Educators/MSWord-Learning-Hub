@@ -1,6 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: feature_request.md
+about: Suggest new features, lessons, or improvements to enhance the repository's
+  learning experience and overall functionality.
 title: ''
 labels: ''
 assignees: ''
