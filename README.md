@@ -88,7 +88,7 @@ If you find this repo useful, consider **starring ⭐ and forking 🍴** to supp
 
 ### 🔗 **Useful Resources**  
 📖 [Official Microsoft Word Documentation](https://support.microsoft.com/en-us/word)  
-📹 [MS Word Tutorials on YouTube](https://www.youtube.com/results?search_query=Microsoft+Word+Tutorials)  
+📹 [MS Word Tutorials on YouTube](https://www.youtube.com/@OptimismEducator)  
 
 ---
 
