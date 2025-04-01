@@ -3,17 +3,19 @@
 Welcome to the **MS Word Intermediate Guide** section of the **MSWord-Learning-Hub** repository! This guide is designed for users who have mastered the basics of Microsoft Word and are now looking to expand their skills with intermediate-level topics. 
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Intermediate Lessons](#intermediate-lessons)
-   - [Advanced Formatting Techniques](#advanced-formatting-techniques)
-   - [Working with Styles and Themes](#working-with-styles-and-themes)
-   - [Document Organization and Navigation](#document-organization-and-navigation)
-   - [Working with Tables and Graphics](#working-with-tables-and-graphics)
-   - [Mail Merge and Automated Documents](#mail-merge-and-automated-documents)
-   - [Collaboration and Reviewing](#collaboration-and-reviewing)
-   - [Advanced Printing and Exporting Options](#advanced-printing-and-exporting-options)
-3. [Additional Resources](#additional-resources)
-4. [Questions or Feedback](#questions-or-feedback)
+- [MS Word Intermediate Guide](#ms-word-intermediate-guide)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Intermediate Lessons](#intermediate-lessons)
+    - [Advanced Formatting Techniques](#advanced-formatting-techniques)
+    - [Working with Styles and Themes](#working-with-styles-and-themes)
+    - [Document Organization and Navigation](#document-organization-and-navigation)
+    - [Working with Tables and Graphics](#working-with-tables-and-graphics)
+    - [Mail Merge and Automated Documents](#mail-merge-and-automated-documents)
+    - [Collaboration and Reviewing](#collaboration-and-reviewing)
+    - [Advanced Printing and Exporting Options](#advanced-printing-and-exporting-options)
+  - [Additional Resources](#additional-resources)
+  - [Questions or Feedback](#questions-or-feedback)
 
 ---
 
@@ -56,6 +58,9 @@ By following these lessons, you'll be able to create professional-quality docume
 - **Mail Merge Setup:** Create personalized documents using mail merge.
 - **Data Sources:** Connect Word to external data sources like Excel.
 - **Automating Repetitive Tasks:** Use Quick Parts and building blocks for automation.
+
+
+
 
 ### Collaboration and Reviewing
 - **Track Changes:** Monitor edits and review document revisions.
