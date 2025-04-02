@@ -2,14 +2,25 @@
 # 📖 MSWord-Learning-Hub
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub" alt="Contributors">
-  <img src="https://img.shields.io/github/issues-pr/iamAntimPal/MSWord-Learning-Hub" alt="Pull Requests">
-  <img src="https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub" alt="Issues">
-  <img src="https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub" alt="License">
+  <a href="https://github.com/iamAntimPal/MSWord-Learning-Hub">
+  <img height="25" src="https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub stars">
+  </a>
+  <a href="">
+  <img height="25" src="https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub forks">
+  </a>
+  <a href="">
+  <img height="25" src="https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub" alt="Contributors">
+  </a>
+  <a href="">
+  <img height="25" src="https://img.shields.io/github/issues-pr/iamAntimPal/MSWord-Learning-Hub" alt="Pull Requests">
+  </a>
+  <a href="">
+  <img height="25" src="https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub" alt="Issues">
+  </a>
+  <a href="">
+  <img height="25" src="https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub" alt="License">
   <a href="https://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+    <img height="25" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
 </div>
 <p align="center">
