@@ -13,7 +13,7 @@
   </a>
 </div>
 <p align="center">
-<img src="./assets/Image/Word/wordlogo main.png">
+<img src="./assets/SVG Files/wordgif.svg">
 </p>
 ## 📌 About This Repository
 
