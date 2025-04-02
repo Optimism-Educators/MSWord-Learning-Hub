@@ -5,10 +5,10 @@
   <a href="https://github.com/iamAntimPal/MSWord-Learning-Hub">
   <img height="25" src="https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub stars">
   </a>
-  <a href="">
+  <a href="https://github.com/iamAntimPal/MSWord-Learning-Hub/fork">
   <img height="25" src="https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub forks">
   </a>
-  <a href="">
+  <a href="https://github.com/iamAntimPal/MSWord-Learning-Hub/graphs/contributors">
   <img height="25" src="https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub" alt="Contributors">
   </a>
   <a href="">
