@@ -113,6 +113,8 @@ Below is a structured Table of Contents based on the content in this repository:
   - [📖 **📚 Learning Roadmap**](#--learning-roadmap)
   - [⭐ **Support This Project**](#-support-this-project)
     - [🔗 **Useful Resources**](#-useful-resources)
+  - [🤝 Contributing](#-contributing)
+  - [📝 Contribution Process](#-contribution-process)
   - [🚀 **Let's Learn MS Word Like a Pro!**](#-lets-learn-ms-word-like-a-pro)
 - [MS Word](#ms-word)
     - [Table of Contents](#table-of-contents)
