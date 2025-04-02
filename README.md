@@ -20,6 +20,7 @@
   <a href="https://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
+  <a href="https://github.com/iamAntimPal/MSWord-Learning-Hub/commits/main/"><img src="https://img.shields.io/github/last-commit/iamAntimPal/MSWord-Learning-Hub" alt="last commit"></a>
 </div>
 
 ## 📌 About This Repository  
