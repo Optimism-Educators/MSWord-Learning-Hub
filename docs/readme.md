@@ -56,6 +56,11 @@ If you find this repo useful, consider **starring ⭐ and forking 🍴** to supp
 
 ---
 
+## 📌 **Contribute & Support 🚀**  
+We welcome contributions! You can:  
+✅ **Submit issues** if you find any errors.  
+✅ **Improve documentation** by adding more tutorials.  
+✅ **Submit Pull Requests** for new exercises.  
 ## 🤝 Contributing
 
 We welcome contributions from the community to make this project even better! If you'd like to help, please follow these steps:
