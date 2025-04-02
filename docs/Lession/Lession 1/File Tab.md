@@ -57,6 +57,3 @@ Would you like me to add screenshots or a step-by-step guide for a specific feat
 Microsoft Word is a powerful word-processing application that provides a structured interface to create, edit, format, and manage documents efficiently. Below is the **complete structure of MS Word**, including its main interface components, descriptions, and functions.  
 
 ---
-
-
-
