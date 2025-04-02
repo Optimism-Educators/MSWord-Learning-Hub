@@ -1,8 +1,4 @@
 
-
-<!-- 💬 **Do you have any questions, or do you need explanations for specific features?** Let me know! 😊 -->
-
-
 # 📖 MSWord-Learning-Hub
 
 <div align="center">
@@ -33,7 +29,7 @@ Whether you're a **beginner** learning Word basics or an **advanced user** refin
 
 ## 📖 **📚 Learning Roadmap**
 
-*Coming Soon...*
+***Coming Soon...***
 
 ---
 
@@ -432,3 +428,4 @@ Below is a structured Table of Contents based on the content in this repository:
 This comprehensive guide includes all the **MS Word tabs, groups, and options** to help you master Microsoft Word at every level – from beginner to advanced. 
 
 💡 **Want to learn more?** Keep practicing and exploring each option to become a true MS Word Pro! 🚀
+
