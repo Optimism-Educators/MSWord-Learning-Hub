@@ -62,7 +62,7 @@ Whether you're a **beginner** learning Word basics or an **advanced user** refin
 ---
 
 ## 📷 **Screenshots & Examples**  
-We include **screenshots, GIFs, and video tutorials** to make learning easier. Stay tuned!  
+We include **screenshots, GIFs, and video tutorials** to make learning easier. Stay tuned!
 
 ---
 
