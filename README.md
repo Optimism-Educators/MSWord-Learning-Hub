@@ -129,14 +129,12 @@ Below is a structured Table of Contents based on the content in this repository:
   - [🚀 **Let's Learn MS Word Like a Pro!**](#-lets-learn-ms-word-like-a-pro)
 - [MS Word](#ms-word)
     - [Table of Contents](#table-of-contents)
-  - [📄 2. Home Tab](#-2-home-tab)
     - [Groups \& Commands](#groups--commands)
       - [📌 Clipboard](#-clipboard)
       - [🖋️ Font](#️-font)
       - [📑 Paragraph](#-paragraph)
       - [📌 Styles](#-styles)
       - [🔍 Editing](#-editing)
-  - [📥 3. Insert Tab](#-3-insert-tab)
     - [Groups \& Commands](#groups--commands-1)
       - [📄 Pages](#-pages)
       - [📊 Tables](#-tables)
@@ -145,7 +143,6 @@ Below is a structured Table of Contents based on the content in this repository:
       - [📝 Header \& Footer](#-header--footer)
       - [🔤 Text](#-text)
       - [🔢 Symbols](#-symbols)
-  - [🎨 4. Design Tab](#-4-design-tab)
     - [Groups \& Commands](#groups--commands-2)
       - [🎨 Document Formatting](#-document-formatting)
       - [📜 Page Background](#-page-background)
@@ -210,10 +207,12 @@ Below is a structured Table of Contents based on the content in this repository:
 </details>
 
 ---
+<details>
+<summary>
+ <h2>📄 2. Home Tab</h2>
 
-## 📄 2. Home Tab
 > The **Home tab** contains **basic editing and formatting tools** for text and paragraphs.
-
+</summary>
 ### Groups & Commands
 
 #### 📌 Clipboard
@@ -243,12 +242,15 @@ Below is a structured Table of Contents based on the content in this repository:
 - Find
 - Replace
 - Select (Select All, Select Objects)
+</details>
 
 ---
+<details>
+<summary>
+<h2> 📥 3. Insert Tab</h2>
 
-## 📥 3. Insert Tab
 > The **Insert tab** allows users to add **tables, images, shapes, headers, footers, and more**.
-
+</summary>
 ### Groups & Commands
 
 #### 📄 Pages
@@ -293,12 +295,15 @@ Below is a structured Table of Contents based on the content in this repository:
 #### 🔢 Symbols
 - Equation
 - Symbol
+<details>
 
 ---
+<details>
+<summary>
+<h2> 🎨 4. Design Tab</h2>
 
-## 🎨 4. Design Tab
 > The **Design tab** helps in **enhancing the appearance** of documents with **themes, colors, and watermarks**.
-
+</summary>
 ### Groups & Commands
 
 #### 🎨 Document Formatting
@@ -340,6 +345,7 @@ Below is a structured Table of Contents based on the content in this repository:
 - Align
 - Group
 - Rotate
+</details>
 
 ---
 
