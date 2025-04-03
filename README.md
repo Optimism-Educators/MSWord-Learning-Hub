@@ -8,6 +8,7 @@
   <img height="25px" src="https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub" alt="Issues">
   <img height="25px" src="https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub" alt="License">
   <a href="https://makeapullrequest.com"><img height="25px" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <img height="25px" src="https://img.shields.io/github/last-commit/iamAntimPal/MSWord-Learning-Hub"/>
 </div>
 
 
