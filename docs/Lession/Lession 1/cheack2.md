@@ -141,6 +141,8 @@ The Editing group includes tools for searching and selecting text.
 
 ---
 
+
+
 ## Screenshots and Visual Guides
 
 Here are some example screenshots to help visualize the Home Tab:
