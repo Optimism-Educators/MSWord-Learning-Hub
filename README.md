@@ -2,14 +2,7 @@
 # 📖 MSWord-Learning-Hub
 
 <div align="center">
-  <img height="25px" src="https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub stars">
-  <img height="25px" src="https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub forks">
-  <img height="25px" src="https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub" alt="Contributors">
-  <img height="25px" src="https://img.shields.io/github/issues-pr/iamAntimPal/MSWord-Learning-Hub" alt="Pull Requests">
-  <img height="25px" src="https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub" alt="Issues">
-  <img height="25px" src="https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub" alt="License">
-  <a href="https://makeapullrequest.com"><img height="25px" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-  <a href="https://github.com/iamAntimPal/MSWord-Learning-Hub/commits/main/"><img height="25px" src="https://img.shields.io/github/last-commit/iamAntimPal/MSWord-Learning-Hub"></a>
+
 </div>
 <p align="center">
 <img src="./assets/SVG Files/wordgif.svg">
@@ -116,7 +109,7 @@ Below is a structured Table of Contents based on the content in this repository:
   - [🚀 **Let's Learn MS Word Like a Pro!**](#-lets-learn-ms-word-like-a-pro)
 - [MS Word](#ms-word)
     - [Table of Contents](#table-of-contents)
-  - [📑 1. File Tab (Backstage View)](#-1-file-tab-backstage-view)
+  - [](#)
   - [📄 2. Home Tab](#-2-home-tab)
     - [Groups \& Commands](#groups--commands)
       - [📌 Clipboard](#-clipboard)
@@ -179,8 +172,10 @@ Below is a structured Table of Contents based on the content in this repository:
 - [🔚 Conclusion](#-conclusion)
 
 ---
-
-## 📑 1. File Tab (Backstage View)
+<details>
+<summary>
+<h2>📑 1. File Tab (Backstage View)</h2>
+</summary>
 > The **File tab** provides document management options such as **creating, saving, printing, sharing, and exporting** files.
 - **New** → Create a new document.
 - **Open** → Open an existing document.
@@ -192,7 +187,7 @@ Below is a structured Table of Contents based on the content in this repository:
 - **Close** → Close the current document.
 - **Options** → Customize Word settings.
 - **Account** → Manage user account and settings.
-
+</details>
 ---
 
 ## 📄 2. Home Tab
