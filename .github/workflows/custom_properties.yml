@@ -1,0 +1,7 @@
+project_status: "beta"
+supported_platforms:
+  - Windows
+  - macOS
+  - Linux
+build_status: "passing"
+custom_citation: "Doe, J. (2023). Example Project. GitHub Repository."
