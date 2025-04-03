@@ -1,5 +1,15 @@
-
 # 📖 MSWord-Learning-Hub
+
+<div align="center">
+  <img height="25px" src="https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub stars">
+  <img height="25px" src="https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub forks">
+  <img height="25px" src="https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub" alt="Contributors">
+  <img height="25px" src="https://img.shields.io/github/issues-pr/iamAntimPal/MSWord-Learning-Hub" alt="Pull Requests">
+  <img height="25px" src="https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub" alt="Issues">
+  <img height="25px" src="https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub" alt="License">
+  <a href="https://makeapullrequest.com"><img height="25px" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</div>
+
 
 <div align="center">
 
