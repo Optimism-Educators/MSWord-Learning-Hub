@@ -129,7 +129,7 @@ Below is a structured Table of Contents based on the content in this repository:
   - [🚀 **Let's Learn MS Word Like a Pro!**](#-lets-learn-ms-word-like-a-pro)
 - [MS Word](#ms-word)
     - [Table of Contents](#table-of-contents)
-  - [📑 1. File Tab (Backstage View)](#-1-file-tab-backstage-view)
+  - [](#)
   - [📄 2. Home Tab](#-2-home-tab)
     - [Groups \& Commands](#groups--commands)
       - [📌 Clipboard](#-clipboard)
@@ -192,8 +192,10 @@ Below is a structured Table of Contents based on the content in this repository:
 - [🔚 Conclusion](#-conclusion)
 
 ---
-
-## 📑 1. File Tab (Backstage View)
+<details>
+<summary>
+<h2>📑 1. File Tab (Backstage View)</h2>
+</summary>
 > The **File tab** provides document management options such as **creating, saving, printing, sharing, and exporting** files.
 - **New** → Create a new document.
 - **Open** → Open an existing document.
@@ -205,7 +207,7 @@ Below is a structured Table of Contents based on the content in this repository:
 - **Close** → Close the current document.
 - **Options** → Customize Word settings.
 - **Account** → Manage user account and settings.
-
+</details>
 ---
 
 ## 📄 2. Home Tab
