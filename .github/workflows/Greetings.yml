@@ -5,21 +5,21 @@ on:
     types: [opened]
 
 jobs:
-  greeting:
+  greet:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Comment on Pull Request
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Add a Greeting Comment
         uses: actions/github-script@v6
         with:
-          github-token: ${{ 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 }}
+          github-token: ${{ secrets.GH_PAT }}
           script: |
-            const prNumber = context.payload.pull_request.number;
-            const username = context.payload.pull_request.user.login;
-            const message = `🎉 Thank you @${username} for your contribution! Your pull request has been submitted successfully. A maintainer will review it as soon as possible. We appreciate your support in making this project better! 🚀`;
-            
-            await github.rest.issues.createComment({
+            github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: prNumber,
-              body: message
+              issue_number: context.payload.pull_request.number,
+              body: "🎉 Thank you @${{ github.actor }} for your contribution! A maintainer will review your PR soon. 🚀"
             });
