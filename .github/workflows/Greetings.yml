@@ -11,7 +11,7 @@ jobs:
       - name: Comment on Pull Request
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ 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 }}
           script: |
             const prNumber = context.payload.pull_request.number;
             const username = context.payload.pull_request.user.login;
