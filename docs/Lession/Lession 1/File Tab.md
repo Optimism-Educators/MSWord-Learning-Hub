@@ -1,3 +1,7 @@
+# **📑 Microsoft Word Structure & Overview**  
+
+Microsoft Word is a powerful word-processing application that provides a structured interface to create, edit, format, and manage documents efficiently. Below is the **complete structure of MS Word**, including its main interface components, descriptions, and functions. 
+---
 
 ## **📌 MS Word Interface Structure**  
 
@@ -49,11 +53,3 @@ The **File Tab** in Microsoft Word, also known as **Backstage View**, contains e
 4. **Check Compatibility:** Before saving, ensure the document format is compatible with your needs (e.g., `.docx` for Word, `.pdf` for sharing).  
 
 Would you like me to add screenshots or a step-by-step guide for a specific feature? 😊
-
-
-
-# **📑 Microsoft Word Structure & Overview**  
-
-Microsoft Word is a powerful word-processing application that provides a structured interface to create, edit, format, and manage documents efficiently. Below is the **complete structure of MS Word**, including its main interface components, descriptions, and functions.  
-
----
