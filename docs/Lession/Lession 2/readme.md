@@ -129,6 +129,9 @@ Each group is explained in detail below with screenshots and examples.
 ---
 
 ## 🔍 Editing Group
+<div>
+<img src="../../../assets/Image/Lession 2 Home Tab/editgroup.jpg">
+</div>
 
 **(Add Screenshot if needed: /assets/Image/Lession%201/editing-group.png)**
 
