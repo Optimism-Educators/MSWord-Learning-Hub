@@ -108,7 +108,9 @@ MS Word is used for various purposes, including:
 | **Scroll Bars**          | Allows users to navigate through long documents.                                           | **Horizontal & Vertical scroll bars** help move up, down, left, or right.                                                              |
 | **Zoom Slider**          | Adjusts the zoom level of the document view.                                               | Located at the **bottom-right of the status bar**.                                                                                     |
 | **View Modes**           | Allows users to switch between different document views.                                   | Includes **Print Layout, Read Mode, Web Layout, Outline, and Draft View**.                                                             |
-
+<div>
+<img src="../../../assets/Image/Word/word.png">
+</div>
 
 
 ## **📂 File Tab in MS Word (Backstage View)**  
