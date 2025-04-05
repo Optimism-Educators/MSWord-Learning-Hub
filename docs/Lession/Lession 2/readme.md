@@ -2,6 +2,10 @@
 
 Welcome to the **Home Tab** guide for Microsoft Word! This document covers everything you need to know about the Home Tab's features, how to use them, and practical exercises to reinforce your learning.
 
+<div>
+<img src="../../../assets/Image/Lession 2 Home Tab/editgroup.jpg">
+</div>
+
 ---
 
 ## 📚 Table of Contents
