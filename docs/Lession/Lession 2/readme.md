@@ -116,6 +116,10 @@ Each group is explained in detail below with screenshots and examples.
 
 ## 🎨 Styles Group
 
+<div>
+<img src="../../../assets/Image/Lession 2 Home Tab/style.jpg">
+</div>
+
 **(Add Screenshot if needed: /assets/Image/Lession%201/styles-group.png)**
 
 **Features:**
