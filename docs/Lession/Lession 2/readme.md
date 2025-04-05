@@ -14,7 +14,6 @@ Welcome to the **Home Tab** guide for Microsoft Word! This document covers every
   - [📚 Table of Contents](#-table-of-contents)
   - [🧭 Introduction](#-introduction)
   - [🏠 Home Tab Overview](#-home-tab-overview)
-  - [](#)
   - [📋 Clipboard Group](#-clipboard-group)
   - [✍️ Font Group](#️-font-group)
   - [📑 Paragraph Group](#-paragraph-group)
