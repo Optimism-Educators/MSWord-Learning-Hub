@@ -14,6 +14,7 @@ Welcome to the **Home Tab** guide for Microsoft Word! This document covers every
   - [📚 Table of Contents](#-table-of-contents)
   - [🧭 Introduction](#-introduction)
   - [🏠 Home Tab Overview](#-home-tab-overview)
+  - [](#)
   - [📋 Clipboard Group](#-clipboard-group)
   - [✍️ Font Group](#️-font-group)
   - [📑 Paragraph Group](#-paragraph-group)
@@ -43,7 +44,9 @@ The Home Tab is organized into several command groups:
 - Editing
 
 Each group is explained in detail below with screenshots and examples.
-
+<div>
+<img src="../../../assets/Image/Lession 2 Home Tab/font.jpg">
+</div>
 ---
 
 ## 📋 Clipboard Group
@@ -65,7 +68,9 @@ Each group is explained in detail below with screenshots and examples.
 
 ## ✍️ Font Group
 
-![Font Group](/assets/Image/Lession%201/font%20group.png)
+<div>
+<img src="../../../assets/Image/Lession 2 Home Tab/font.jpg">
+</div>
 
 **Features:**
 - **Font Style:** Choose from different typefaces
@@ -87,7 +92,9 @@ Each group is explained in detail below with screenshots and examples.
 
 ## 📑 Paragraph Group
 
-![Paragraph Group](images/paragraph_group.png)
+<div>
+<img src="../../../assets/Image/Lession 2 Home Tab/paragraph.png">
+</div>
 
 **Features:**
 - **Bullets / Numbering:** Create lists
