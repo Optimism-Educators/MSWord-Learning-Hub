@@ -17,7 +17,6 @@
   - [**📂 File Tab in MS Word (Backstage View)**](#-file-tab-in-ms-word-backstage-view)
   - [**📌 Features of File Tab**](#-features-of-file-tab)
   - [**🛠️ How to Use the File Tab?**](#️-how-to-use-the-file-tab)
-- [**📑 Microsoft Word Structure \& Overview**](#-microsoft-word-structure--overview)
   - [Creating and Saving a Document](#creating-and-saving-a-document)
     - [Creating a New Document](#creating-a-new-document)
     - [Saving a Document](#saving-a-document)
@@ -151,17 +150,6 @@ The **File Tab** in Microsoft Word, also known as **Backstage View**, contains e
 
 5. **Customizing Word Settings:**
    - Open **File > Options** to adjust Word’s appearance, language, and default settings.
-
-
-Would you like me to add screenshots or a step-by-step guide for a specific feature? 😊
-
-
-
-# **📑 Microsoft Word Structure & Overview**  
-
-Microsoft Word is a powerful word-processing application that provides a structured interface to create, edit, format, and manage documents efficiently. Below is the **complete structure of MS Word**, including its main interface components, descriptions, and functions.  
-
----
 
 ## Creating and Saving a Document
 ### Creating a New Document
