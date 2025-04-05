@@ -1,14 +1,14 @@
 # 📖 MSWord-Learning-Hub
 
 <div align="center">
-  <img height="25px" src="https://img.shields.io/github/stars/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub stars">
-  <img height="25px" src="https://img.shields.io/github/forks/iamAntimPal/MSWord-Learning-Hub?style=social" alt="GitHub forks">
-  <img height="25px" src="https://img.shields.io/github/contributors/iamAntimPal/MSWord-Learning-Hub" alt="Contributors">
-  <img height="25px" src="https://img.shields.io/github/issues-pr/iamAntimPal/MSWord-Learning-Hub" alt="Pull Requests">
-  <img height="25px" src="https://img.shields.io/github/issues/iamAntimPal/MSWord-Learning-Hub" alt="Issues">
-  <img height="25px" src="https://img.shields.io/github/license/iamAntimPal/MSWord-Learning-Hub" alt="License">
+  <img height="25px" src="https://img.shields.io/github/stars/Optimism-Educators/MSWord-Learning-Hub?style=social" alt="GitHub stars">
+  <img height="25px" src="https://img.shields.io/github/forks/Optimism-Educators/MSWord-Learning-Hub?style=social" alt="GitHub forks">
+  <img height="25px" src="https://img.shields.io/github/contributors/Optimism-Educators/MSWord-Learning-Hub" alt="Contributors">
+  <img height="25px" src="https://img.shields.io/github/issues-pr/Optimism-Educators/MSWord-Learning-Hub" alt="Pull Requests">
+  <img height="25px" src="https://img.shields.io/github/issues/Optimism-Educators/MSWord-Learning-Hub" alt="Issues">
+  <img height="25px" src="https://img.shields.io/github/license/Optimism-Educators/MSWord-Learning-Hub" alt="License">
   <a href="https://makeapullrequest.com"><img height="25px" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-  <img height="25px" src="https://img.shields.io/github/last-commit/iamAntimPal/MSWord-Learning-Hub"/>
+  <img height="25px" src="https://img.shields.io/github/last-commit/Optimism-Educators/MSWord-Learning-Hub"/>
 </div>
 
 
