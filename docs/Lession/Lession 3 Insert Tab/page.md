@@ -1,8 +1,5 @@
-Here’s a **README.md** file focused specifically on the **Page Group** inside the **Insert Tab** of MS Word:
 
----
-
-# README: Understanding the **Page Group** in the Insert Tab (MS Word)
+# Understanding the **Page Group** in the Insert Tab (MS Word)
 
 ## 📖 Introduction
 In Microsoft Word, the **Page Group** is the first section under the **Insert Tab**.  
@@ -69,7 +66,3 @@ By understanding **Cover Page**, **Blank Page**, and **Page Break**, you can org
 
 **Practice Tip:** Open a Word document and try using all three options to see how they work!
 
----
-
-Would you like me to also create a simple chart 📊 or a visual flow 🧩 showing when to use each option?  
-It can make it even easier to remember! 🚀✨
